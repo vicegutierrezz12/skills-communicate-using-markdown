@@ -5,3 +5,6 @@
 print('mesi')
 mesi
 ```
+- [ ] crasna
+- [x] mesi
+- [ ] cr7
